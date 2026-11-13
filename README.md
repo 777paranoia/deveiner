@@ -70,8 +70,8 @@ In your main.js; add this to the bottom, right before the closing </script> tag:
 ```
 
 # One last suggestion too!
-- Right now, your "jam1" audio file is a .WAV. This is a hugeee file that a lot of browsers and mobile data plans might have trouble loading easily/quickly. Generally with audio streams on websites, you'd wanna convert the audio to .MP3. Imo the easiest/most intuitive converter for Mac is XLD [link to download], you basically just set the output file to be MP3; drag the file onto the icon, and it spits it out converted. 
-- You've got a similar issue here with the "twins.mov" file for the video in the player. It's almost 1.0 Gb large; that's like; the size of an average 720p feature-length movie file, and a total nightmare for almost any cellular data plan. My personal favorite video converter is Shutter Encoder [link to download]. Here's a basic step-by-step for how to convert the video:
+- Right now, your "jam1" audio file is a .WAV. This is a hugeee file that a lot of browsers and mobile data plans might have trouble loading easily/quickly. Generally with audio streams on websites, you'd wanna convert the audio to .MP3. Imo the easiest/most intuitive converter for Mac is XLD [[link to download]](https://sourceforge.net/projects/xld/files/xld-20250302.dmg/download), you basically just set the output file to be MP3; drag the file onto the icon, and it spits it out converted. 
+- You've got a similar issue here with the "twins.mov" file for the video in the player. It's almost 1.0 Gb large; that's like; the size of an average 720p feature-length movie file, and a total nightmare for almost any cellular data plan. My personal favorite video converter is Shutter Encoder [[link to download]](https://www.shutterencoder.com/). Here's a basic step-by-step for how to convert the video:
 
 * 1. launch the program, drag and drop the video into the queue, and select "Output: H.264" from the dropdown menu:
  
