@@ -74,7 +74,7 @@ In your main.js; add this to the bottom, right before the closing </script> tag:
 - You've got a similar issue here with the "twins.mov" file for the video in the player. It's almost 1.0 Gb large; that's like; the size of an average 720p feature-length movie file, and a total nightmare for almost any cellular data plan. My personal favorite video converter is Shutter Encoder [link to download]. Here's a basic step-by-step for how to convert the video:
 
 * 1. launch the program, drag and drop the video into the queue, and select "Output: H.264" from the dropdown menu:
-  2. 
+ 
 <img width="378" height="777" alt="Screenshot 2026-11-12 at 2 56 05 PM" src="https://github.com/user-attachments/assets/b3de97e5-9aaf-425b-a051-5498e7cc815d" />
 
 <img width="337" height="840" alt="Screenshot 2026-11-12 at 2 56 19 PM" src="https://github.com/user-attachments/assets/fdab277f-23aa-4159-bb53-093f570a5277" />
