@@ -13,7 +13,8 @@ I built an app for you that will allow you to upload code with existing inline c
 
 adding this to your CSS code should prevent that from happening and make it so only like normal text get selected (not like the images and the whole page; this was happening to me on mobile)
 
-```body,
+```
+body,
 body * {
 -webkit-user-select: none;
 user-select: none;
@@ -42,13 +43,16 @@ this will allow the video to play at the scale it's intended to be, within the f
 
 On your index.html; find this:
 
+```
 <video id="video" preload="metadata" src="videos/twins.mov">
     Your browser does not support video.
 </video>
+```
 
 Replace it with this:
 
-```<video
+```
+<video
     id="video"
     preload="metadata"
     src="videos/twins.mov"
@@ -62,7 +66,8 @@ Replace it with this:
 
 In your main.js; add this to the bottom, right before the closing </script> tag:
 
-```document.addEventListener("dragstart", function(event) {
+```
+document.addEventListener("dragstart", function(event) {
   if (event.target.closest("img, svg, video")) {
     event.preventDefault();
   }
