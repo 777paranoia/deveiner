@@ -2,6 +2,8 @@
 
 * made for twin veins (proxoxie + t3chnofairy)
 
+[DOWNLOAD HERE](https://github.com/777paranoia/deveiner/releases/tag/deveiner)
+
 <img width="1392" height="944" alt="Screenshot 2026-11-12 at 8 22 09 PM" src="https://github.com/user-attachments/assets/8395808e-7bb8-497c-876e-077255cf2c8c" />
   
 
